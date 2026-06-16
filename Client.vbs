@@ -18,9 +18,9 @@ Dim normalSleep, speedSleep, speedUntil
 Dim isSpeedMode
 isSpeedMode = False
 
-workerUrl = "https://soft-cell-6c15.jakob-stebe.workers.dev"
-secret = "kosmicar-secret-928374"
-commandBase = "https://servercontrollerkosmicar.neocities.org/commands/"
+workerUrl = "https://soft-cell-6c15.john-doe.workers.dev"
+secret = "john-secret-928374"
+commandBase = "https://servercontrollerwho.neocities.org/commands/"
 
 normalSleep = 15000
 speedSleep = 3000
